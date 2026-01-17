@@ -1,0 +1,46 @@
+[
+  {
+    "id": "px-eco-1",
+    "name": "Lámpara inteligente Aura",
+    "description": "Iluminación cálida con control por escenas y temporizador.",
+    "price": 64.99,
+    "stock": 12,
+    "rating": 4.8,
+    "category": "hogar",
+    "imageUrl": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?auto=format&fit=crop&w=800&q=80",
+    "features": ["Control por voz", "Modo lectura", "Bajo consumo"]
+  },
+  {
+    "id": "px-eco-2",
+    "name": "Kit escritorio Focus",
+    "description": "Organizador modular con bandejas y soporte ergonómico.",
+    "price": 42.5,
+    "stock": 18,
+    "rating": 4.6,
+    "category": "oficina",
+    "imageUrl": "https://images.unsplash.com/photo-1487014679447-9f8336841d58?auto=format&fit=crop&w=800&q=80",
+    "features": ["Material reciclado", "Diseño modular", "Fácil limpieza"]
+  },
+  {
+    "id": "px-eco-3",
+    "name": "Auriculares Zen",
+    "description": "Cancelación de ruido adaptativa con batería de 30 horas.",
+    "price": 129.0,
+    "stock": 8,
+    "rating": 4.9,
+    "category": "tecnologia",
+    "imageUrl": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80",
+    "features": ["Bluetooth 5.3", "Carga rápida", "Modo transparencia"]
+  },
+  {
+    "id": "px-eco-4",
+    "name": "Difusor Calm",
+    "description": "Aromaterapia con luz suave y apagado automático.",
+    "price": 38.0,
+    "stock": 20,
+    "rating": 4.5,
+    "category": "bienestar",
+    "imageUrl": "https://images.unsplash.com/photo-1519710164239-da123dc03ef4?auto=format&fit=crop&w=800&q=80",
+    "features": ["Silencioso", "Batería recargable", "7 colores"]
+  }
+]
